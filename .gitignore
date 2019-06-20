@@ -1,6 +1,0 @@
-vendor/*
-!vendor/vendor.json
-
-./gitignore
-
-.idea/*
